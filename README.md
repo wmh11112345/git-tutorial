@@ -5,3 +5,4 @@ made by wmh
 -fix-C
 --fix-c
 --featrue-D
+--feature-D _local
